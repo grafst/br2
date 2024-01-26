@@ -2,9 +2,9 @@
 
 namespace Greenheron\Br2\Tests;
 
+use Greenheron\Br2\Br2ServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Greenheron\Br2\Br2ServiceProvider;
 
 class TestCase extends Orchestra
 {
