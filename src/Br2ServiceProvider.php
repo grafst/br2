@@ -2,9 +2,9 @@
 
 namespace Greenheron\Br2;
 
+use Greenheron\Br2\Commands\Br2Command;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Greenheron\Br2\Commands\Br2Command;
 
 class Br2ServiceProvider extends PackageServiceProvider
 {

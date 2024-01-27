@@ -12,7 +12,7 @@ class BugCommand extends Command
 
     public function handle(): void
     {
-        print("fun fun fun");
+        echo 'fun fun fun';
 
     }
 }
